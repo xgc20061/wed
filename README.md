@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -307,9 +307,9 @@
                 </div>
                 <div class="nav-links">
                     <a href="#home">首页</a>
-                    <a href="#about">建设方案</a>
-                    <a href="#activity">学术活动</a>
-                    <a href="#culture">文化传承</a>
+                    <a href="#about">学风建设方案</a>
+                    <a href="#activity">建设进程</a>
+                    <a href="#culture">成果展示</a>
                 </div>
             </nav>
         </div>
